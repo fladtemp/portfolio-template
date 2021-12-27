@@ -12,7 +12,7 @@ const ProjectsSec = () => {
               maiores pariatur corporis assumenda rem laborum ad accusantium
               hic.
             </p>
-            <a href="#">Read More</a>
+            <a href="/">Read More</a>
           </div>
         </div>
       </div>
@@ -25,7 +25,7 @@ const ProjectsSec = () => {
               maiores pariatur corporis assumenda rem laborum ad accusantium
               hic.
             </p>
-            <a href="#">Read More</a>
+            <a href="/">Read More</a>
           </div>
         </div>
       </div>
@@ -38,7 +38,7 @@ const ProjectsSec = () => {
               maiores pariatur corporis assumenda rem laborum ad accusantium
               hic.
             </p>
-            <a href="#">Read More</a>
+            <a href="/">Read More</a>
           </div>
         </div>
       </div>

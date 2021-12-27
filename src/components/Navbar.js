@@ -8,10 +8,14 @@ const Navbar = () => {
           SOMEONE
         </a>
         <nav className="navigation">
-          <a href="#">Home</a>
+          <a href="/">Home</a>
           <a href="#exp">Experince</a>
           <a href="#projects">Projects</a>
-          <a href="https://github.com/fladdracula/portfolio-template">
+          <a
+            rel="noreferrer"
+            target={"_blank"}
+            href="https://github.com/fladdracula/portfolio-template"
+          >
             Source Code
           </a>
         </nav>
