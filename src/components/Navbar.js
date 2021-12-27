@@ -11,6 +11,9 @@ const Navbar = () => {
           <a href="#">Home</a>
           <a href="#exp">Experince</a>
           <a href="#projects">Projects</a>
+          <a href="https://github.com/fladdracula/portfolio-template">
+            Source Code
+          </a>
         </nav>
       </header>
     </div>
